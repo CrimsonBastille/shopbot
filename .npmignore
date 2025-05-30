@@ -7,7 +7,7 @@ tests/
 .eslintrc.json
 babel.config.js
 cloudbuild.yaml
-jest.config.ts
+vitest.config.ts
 tsconfig.json
 yarn.lock
 .yarnrc.yml
@@ -19,7 +19,6 @@ yarn.lock
 src/
 .eslintrc
 .prettierrc
-jest.config.js
 tsconfig.json
 *.log
 .env

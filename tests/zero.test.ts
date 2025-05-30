@@ -1,6 +1,6 @@
 'use strict';
 
-import { describe, expect, test } from '@jest/globals';
+import { describe, expect, test } from 'vitest';
 import { CmdGroup, ShopbotPrinter, ZeroA, ZeroB } from '../src/index';
 
 describe('Shopbot Zero Commands', () => {
