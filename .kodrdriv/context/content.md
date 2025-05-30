@@ -1,0 +1,1 @@
+shopbot is a library to create shopbot command output
